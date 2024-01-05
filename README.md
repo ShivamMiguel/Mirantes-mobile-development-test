@@ -1,6 +1,6 @@
 # Mirantes-mobile-development-test
 
-# Teste de Nível Pleno a Sênior para Desenvolvedor React Native
+# Teste para Desenvolvedor React Native
 
 Olá e obrigado por se candidatar à posição de desenvolvedor React Native em nossa empresa! Este teste foi projetado para avaliar suas habilidades em React Native em diferentes níveis, desde pleno até sênior, incluindo a criação de um projeto React Native funcional.
 
